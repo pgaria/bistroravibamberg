@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pgaria.github.io/bistroravibamberg/categories/</loc>
+    <loc>https://localhost/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pgaria.github.io/bistroravibamberg/</loc>
+    <loc>https://localhost/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pgaria.github.io/bistroravibamberg/tags/</loc>
+    <loc>https://localhost/tags/</loc>
     <priority>0</priority>
   </url>
   

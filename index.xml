@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference name</title>
-    <link>https://pgaria.github.io/bistroravibamberg/</link>
+    <link>https://localhost/</link>
     <description>Recent content on Conference name</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://pgaria.github.io/bistroravibamberg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
